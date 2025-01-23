@@ -2,7 +2,7 @@
 <?php $title = 'Home'; ?>
 
 <div class="container">
-    <h1>Jarell Vicencio</h1>
+    <h1 class="text text-danger">Jarell Vicencio</h1>
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
         <h3>Check your zodiac.</h3>
         <p>
